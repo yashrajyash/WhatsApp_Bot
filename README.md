@@ -5,6 +5,8 @@
 ### Setup
 install pandas and selenium
 <br>
+if you are using linux replace pip with pip3
+<br>
 `pip install selenium`
 <br>
 `pip install pandas`
