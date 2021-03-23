@@ -6,6 +6,7 @@
 install pandas and selenium
 <br>
 `pip install selenium`
+<br>
 `pip install pandas`
 <br>
 install chrome driver acording to your chrome version from <a href=https://chromedriver.chromium.org/downloads>here</a>
